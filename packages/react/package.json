@@ -1,0 +1,19 @@
+{
+  "name": "@vault42/eslint-config-react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.39.0",
+    "react": ">= 14"
+  },
+  "dependencies": {
+    "@42arch/eslint-config-ts": "workspace:*"
+  }
+}
